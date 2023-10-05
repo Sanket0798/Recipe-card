@@ -1,0 +1,34 @@
+.recipe {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.recipeName {
+    color: #333;
+}
+
+.recipeAuthor {
+    font-style: italic;
+    color: #777;
+}
+
+.recipeTime {
+    margin-top: 10px;
+    color: #777;
+}
+
+.recipeIngredients {
+    margin-top: 20px;
+}
+
+.recipeInstructions {
+    margin-top: 20px;
+}
+
+.recipeNotes {
+    margin-top: 20px;
+    color: #777;
+}
